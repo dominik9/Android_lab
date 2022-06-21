@@ -1,0 +1,14 @@
+[{
+  "id":1,
+  "deviceName":"name",
+  "mqttIp":"123.123.123.123",
+  "deviceIp":"123.123.123.123",
+  "type": 1
+},
+{
+  "id":2,
+  "deviceName":"name",
+  "mqttIp":"123.123.123.123",
+  "deviceIp":"123.123.123.123",
+  "type": 1
+}]
